@@ -1,7 +1,7 @@
-# HHmodel--researchproposal  
+# HHmodel--research
 This is an experiment in a writing class for first-year PhD students, aiming at integrating the traditional methods of close reading with electronic methods. But it turned out to be an self-experimentation examining my own path dependency, testing just how quickly I give up on new approaches after I hit a snag.   
 
-This project was originally conceived to explore the generation of Hodgkin-Huxley Model, the most important model of modern neurophysiology, through the role of the non-human participant squids. It fits well with my usual interest in the real biological foundations of artificial intelligence. And it also fits with my past academic training in environmental history.      
+This project was originally conceived to explore the generation of Hodgkin-Huxley Model, the most important model of modern neurophysiology, through the role of the non-human participant squids. It fits well with my usual interest in the real biological foundations of artificial intelligence. And it also fits with my past academic training in environmental history.        
 
 But in the end it became a paper on too much linguistics, physics and math. The first consequence of this was that I lost my cohort as readers; it seemed a bit too unreadable and difficult to understand. I realized that math can only be used as a DH tool, and once it becomes a subject for digital study, even if it's just to talk about how math proves that democratic voting doesn't work, it's alienating. As well as I eventually realized that I still preferred the half-science, half-Hogwarts vibe of biology, and that physics and math were too rigorous and hard-science. So it's still a good program that at least tells me what I don't like.
 
